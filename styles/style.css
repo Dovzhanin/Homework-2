@@ -1,0 +1,97 @@
+footer {
+background-color: lightblue;
+}
+.container2 {
+text-align: center;
+display: inline-block;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+float: left;
+background-color: lightblue;
+}
+.al{
+width: 28.33333333333333333334%;
+background-color: lightblue;
+height: 100%;
+padding-top: 5%;
+padding-right: 5%;
+padding-left: 5%;
+padding-bottom: 5%;
+}
+.q::before{
+content: url(../images/2.png)
+}
+.w::before{
+content: url(../images/3.png)
+}
+.e::before{
+content: url(../images/4.png)
+}
+.q::after{
+content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, veniam! ipsum dolor sit amet. ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, ipsam?"
+}
+.w::after{
+content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, veniam! ipsum dolor sit amet. ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, ipsam?"
+}
+.e::after{
+content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, veniam! ipsum dolor sit amet. ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, ipsam?"
+}
+h2{
+color: blue;
+font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+}
+.w{
+position: absolute;
+top: 0%;
+left: 0%;
+
+}
+.q{
+position: absolute;
+top: 0%;
+left: 33.333333333333334%;
+
+}
+.e{
+position: absolute;
+top: 0%;
+left: 66.6666666667%;
+
+}
+.button-1{
+positon: absolute;
+top: 95%;
+left: 15.5666666667%;
+}
+.button-2{
+positon: absolute;
+top: 95%;
+left: 49%;
+}
+.button-3{
+positon: absolute;
+top: 95%;
+left: 82.333333347%;
+}
+.button{
+border: none;
+padding: 10px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+background-color: #3c7eb8;
+border-radius: 5px;
+color: white;
+position: absolute;
+width: 7%;
+}
+.autors{
+background-color: white;
+text-align: center;
+position: absolute;
+width: 100%;
+top: 115%;
+padding: 1%;
+}
